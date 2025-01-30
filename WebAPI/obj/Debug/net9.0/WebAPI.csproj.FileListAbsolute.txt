@@ -34,3 +34,4 @@ C:\Users\sandr\SW4BAD\WebAPI\obj\Debug\net9.0\refint\WebAPI.dll
 C:\Users\sandr\SW4BAD\WebAPI\obj\Debug\net9.0\WebAPI.pdb
 C:\Users\sandr\SW4BAD\WebAPI\obj\Debug\net9.0\WebAPI.genruntimeconfig.cache
 C:\Users\sandr\SW4BAD\WebAPI\obj\Debug\net9.0\ref\WebAPI.dll
+C:\Users\sandr\SW4BAD\WebAPI\obj\Debug\net9.0\WebAPI.sourcelink.json

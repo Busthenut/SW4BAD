@@ -13,9 +13,9 @@ namespace WebAPI.Controller
         {
             var experiences = new List<Experience>
             {
-                new Experience("Experience 1", "Description 1", 100),
-                new Experience("Experience 2", "Description 2", 200),
-                new Experience("Experience 3", "Description 3", 300)
+                new Experience("Luqman Nur", "C-tier worker", 10),
+                new Experience("Ali Al-issa", "A-tier worker", 30),
+                new Experience("Nikolai Nguyen", "SS-tier worker", 100)
             };
 
             return experiences;
